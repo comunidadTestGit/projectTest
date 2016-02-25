@@ -1,0 +1,8 @@
+body {
+  background-color: blue; 
+}
+p {
+  color:#FF0000; /*color rojo*/
+  font-size:18px; /* font es la caracteristica y size la subcaracteristica*/
+  font-family:Arial, Helvetica, sans-serif;
+}
