@@ -7,7 +7,7 @@ p {
   font-family:Arial, Helvetica, sans-serif;
 }
 button {
-    background-color: #4CAF50; /* Green */
+    background-color: white;
     border: none;
     color: black;
     padding: 15px 32px;
@@ -15,4 +15,5 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    font: oblique bold 120% cursive; 
 }
